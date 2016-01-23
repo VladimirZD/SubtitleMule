@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SubtitlesMule.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SearchURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.bsplayer-subtitles.com/index.php?cmd=search&amp;p=exploresub&amp;q={0}&amp;lang={1}</Value>
+    </Setting>
+    <Setting Name="DefaultLanguage" Type="System.String" Scope="User">
+      <Value Profile="(Default)">HRV</Value>
+    </Setting>
+    <Setting Name="FileDownloadURL" Type="System.String" Scope="User">
+      <Value Profile="(Default)">http://www.getsubtitle.com/webService/download_subtitle.php?{0}</Value>
+    </Setting>
+    <Setting Name="OpenSubtitlesUserName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">VladimirZD</Value>
+    </Setting>
+    <Setting Name="OpenSubtitlesPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Lignja!@</Value>
+    </Setting>
+    <Setting Name="OpenSubtitlesUserAgent" Type="System.String" Scope="User">
+      <Value Profile="(Default)">OSTestUserAgent</Value>
+    </Setting>
+    <Setting Name="OpenSubtitleApiURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://api.opensubtitles.org/xml-rpc</Value>
+    </Setting>
+    <Setting Name="FileTypesToScan" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">.mkv;.mp4</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
